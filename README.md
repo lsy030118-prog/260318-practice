@@ -1,19 +1,41 @@
-# 🎈 Blank app template
+# [이름]
 
-A simple Streamlit app template for you to modify!
+## 소개
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[여기에 간단한 자기소개를 작성하세요. 예: 안녕하세요, 저는 [이름]입니다. [직업/관심사]에 관심이 많습니다.]
 
-### How to run it on your own machine
+## 기술 스킬
 
-1. Install the requirements
+- [스킬1, 예: Python]
+- [스킬2, 예: JavaScript]
+- [스킬3, 예: 데이터 분석]
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## 프로젝트
 
-2. Run the app
+### [프로젝트 이름 1]
+- [프로젝트 설명]
+- [사용한 기술]
+- [링크: GitHub 등]
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+### [프로젝트 이름 2]
+- [프로젝트 설명]
+- [사용한 기술]
+- [링크]
+
+## 교육
+
+- [학교/학위, 예: [대학교] 컴퓨터공학과 졸업]
+
+## 경력
+
+- [직장/역할, 예: [회사]에서 [직책]으로 근무]
+
+## 연락처
+
+- 이메일: [이메일 주소]
+- LinkedIn: [LinkedIn 프로필 링크]
+- GitHub: [GitHub 프로필 링크]
+
+## 기타
+
+[추가로 넣고 싶은 내용, 예: 취미, 관심사 등]
